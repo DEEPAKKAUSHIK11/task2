@@ -58,7 +58,7 @@ resource "aws_instance" "myinstance" {
   }
 
   tags = {
-    Name = "kaushikOS1"
+    Name = "OS1"
   }
 }
 
